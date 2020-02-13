@@ -1,0 +1,77 @@
+.partie2 {
+    display: inline-block;
+    width: 60%;
+    border-left: 2px solid brg(251, 255, 0);
+    padding-left: 2%;
+    /* float: right;
+    border: 1px solid black;
+    padding: 20px 20px;
+    margin: 0 500px;
+    margin-right: 1px;
+    margibrgay: inline-block;
+    width: 35%;
+    float: left;
+
+}
+.propos{
+  text-align: justify;
+  line-height: 1.5;
+}
+.photo img{
+  margin: 0 auto;
+  display: block;
+  width: 200px;
+}
+.infophotos{
+  text-align: center;
+  display: block;
+}
+.sec-droite{
+  margin-left: 170px;
+  text-align: justify;
+  
+
+}
+.sec-gauche{
+  float: left;
+  font-weight: bold;
+  font-size: 16px;
+  text-align: justify;
+  margin-top: -20px;
+  line-height: 36px;
+}
+.info strong{
+  margin-left: 10px;
+}
+.info span{
+    margin-left: 35px;
+}
+@media screen and (max-width:500px) {
+  .partie1{
+    display: block;
+    width: 100%;
+    float: none;
+  }
+  .partie2{
+    display: block;
+    width: 100%;
+    border-left: none;
+  } //
+.sec-gauche,{
+  float: none;
+  width: 100%;
+}
+.sec-droite{
+  margin-left: 10px;
+  width: 100%;
+}//
+.annee,.annee1,.annee2{
+  display: block;
+  width: 100%;
+}
+.exp,.exp1,.exp2{
+  display: block;
+  width: 100%;
+  margin-top: 05px;
+}
+
